@@ -1,2 +1,2 @@
 # FNF Infinitude Engine
- An FNF Engine, created in Unity. Read the README.
+A PsychEngine-like FNF Engine, created in Unity.
