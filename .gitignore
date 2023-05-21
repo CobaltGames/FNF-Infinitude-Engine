@@ -1,3 +1,5 @@
 .vscode/
-Infinitude Engine/Library/
-Infinitude Engine/Logs/
+/Infinitude Engine/[Ll]ibrary/
+/Infinitude Engine/[Ll]ogs/
+/Infinitude Engine/[Ll]ibrary
+/Infinitude Engine/[Ll]ogs

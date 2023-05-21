@@ -7,7 +7,7 @@ An FNF Engine, based on Unity.
 3. Open the project folder ("Infinitude Engine")
 4. Start editing!
 
-### MOD SUPPORT:
+## MOD SUPPORT:
 As of now (0.1) you aren't able to create mods without editing the project directly
 I plan on using the Persistent Data Folder for mods
 
