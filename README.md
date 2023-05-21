@@ -9,6 +9,7 @@ An FNF Engine, based on Unity.
 
 ### MOD SUPPORT:
 As of now (0.1) you aren't able to create mods without editing the project directly
+I plan on using the Persistent Data Folder for mods
 
 ## Credits:
 - Cobalt Bar (Creator)
