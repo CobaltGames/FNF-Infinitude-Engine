@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Left Note
+  - Down Note
+  - Up Note
+  - Right Note
   layers:
   - Default
   - TransparentFX
