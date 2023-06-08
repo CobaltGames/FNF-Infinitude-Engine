@@ -6,17 +6,12 @@
 [**Friday Night Funkin'**](https://github.com/FunkinCrew/Funkin) is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
 
 ## Infinitude Engine
-**Infinitude Engine** is a recreation of Friday Night Funkin' in Unity. It is designed to improve Friday Night Funkin' for **Players** and **Modders**.
-
-Notes:
-
-**Infinitude Engine** is a ***MOD*** of FNF.
-
-**Infinitude Engine** is not compatible with any other FNF Engine, including Psych Engine.
-
-
-Documentation and tutorials on how to make a mod with **Infinitude Engine** are on the Infinitude Engine website.
-
+**Infinitude Engine** is a recreation of Friday Night Funkin' in Unity. It is designed to improve Friday Night Funkin' for **Players** and **Modders**.  
+Notes:  
+**Infinitude Engine** is a ***MOD*** of FNF.  
+**Infinitude Engine** is not compatible with any other FNF Engine, including Psych Engine.  
+Documentation and tutorials on how to make a mod with **Infinitude Engine** are on the Infinitude Engine website.  
+  
 For Players:
 - Better Input System and UI
 - Better Graphics
