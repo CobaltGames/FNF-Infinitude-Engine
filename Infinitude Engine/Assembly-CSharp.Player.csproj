@@ -59,7 +59,6 @@
     <Compile Include="Assets\Scripts\Game\GameManager.cs" />
     <Compile Include="Assets\Scripts\Game\PlayerInput.cs" />
     <Compile Include="Assets\Scripts\Game\UIManager.cs" />
-    <Compile Include="Assets\Scripts\Game\EnvironmentManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

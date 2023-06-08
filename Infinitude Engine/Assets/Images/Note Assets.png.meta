@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: down confirm0000
+      name: Down Confirm 0
       rect:
         serializedVersion: 2
         x: 2
@@ -150,7 +150,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: down confirm0001
+      name: Down Confirm 1
       rect:
         serializedVersion: 2
         x: 246
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: up confirm0000
+      name: Up Confirm 0
       rect:
         serializedVersion: 2
         x: 492
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: up confirm0001
+      name: Up Confirm 1
       rect:
         serializedVersion: 2
         x: 734
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: left confirm0000
+      name: Left Confirm 0
       rect:
         serializedVersion: 2
         x: 974
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: right confirm0002 and 0003
+      name: Right Confirm 2 and 3
       rect:
         serializedVersion: 2
         x: 1209
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: left confirm0002 and 0003
+      name: Left Confirm 2 and 3
       rect:
         serializedVersion: 2
         x: 1440
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: right confirm0000
+      name: Right Confirm 0
       rect:
         serializedVersion: 2
         x: 1671
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: down press0002 and 0003
+      name: Down Press 2 and 3
       rect:
         serializedVersion: 2
         x: 1898
@@ -444,7 +444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: up confirm0002 and 0003
+      name: Up Confirm 2 and 3
       rect:
         serializedVersion: 2
         x: 976
@@ -465,7 +465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: down confirm0002 and 0003
+      name: Down Confirm 2 and 3
       rect:
         serializedVersion: 2
         x: 1208
@@ -486,7 +486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: left confirm0001
+      name: Left Confirm 1
       rect:
         serializedVersion: 2
         x: 1440
@@ -507,7 +507,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: right confirm0001
+      name: Right Confirm 1
       rect:
         serializedVersion: 2
         x: 1671
@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: left press0002 to 0019
+      name: Left Press 2 to 19
       rect:
         serializedVersion: 2
         x: 1897
@@ -570,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: up press0002 and 0003
+      name: Up Press 2 and 3
       rect:
         serializedVersion: 2
         x: 158
@@ -591,7 +591,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: right press0002 to 0026
+      name: Right Press 2 to 26
       rect:
         serializedVersion: 2
         x: 315
@@ -612,7 +612,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: right press0000 and 0001
+      name: Right Press 0 and 1
       rect:
         serializedVersion: 2
         x: 468
@@ -654,7 +654,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: down press0000 and 0001
+      name: Down Press 0 and 1
       rect:
         serializedVersion: 2
         x: 805
@@ -675,7 +675,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: up press0000 and 0001
+      name: Up Press 0 and 1
       rect:
         serializedVersion: 2
         x: 1897
@@ -696,7 +696,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red hold end0000
+      name: Red Hold End
       rect:
         serializedVersion: 2
         x: 951
@@ -717,7 +717,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green hold end0000
+      name: Green Hold End
       rect:
         serializedVersion: 2
         x: 1007
@@ -738,7 +738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue hold end0000
+      name: Blue Hold End
       rect:
         serializedVersion: 2
         x: 1062
@@ -759,7 +759,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: purple end hold0000
+      name: Purple Hold End
       rect:
         serializedVersion: 2
         x: 1117
@@ -780,7 +780,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red hold piece0000
+      name: Red Hold Piece
       rect:
         serializedVersion: 2
         x: 1171
@@ -801,7 +801,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green hold piece0000
+      name: Green Hold Piece
       rect:
         serializedVersion: 2
         x: 1227
@@ -822,7 +822,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue hold piece0000
+      name: Blue Hold Piece
       rect:
         serializedVersion: 2
         x: 1282
@@ -843,7 +843,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: purple hold piece0000
+      name: Purple Hold Piece
       rect:
         serializedVersion: 2
         x: 1337
@@ -864,7 +864,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: left press0000 and 0001
+      name: Left Press 0 and 1
       rect:
         serializedVersion: 2
         x: 1897
@@ -896,41 +896,41 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Blue: 910343218
+      Blue Hold End: 1662670087
+      Blue Hold Piece: 60384563
       Down Arrow: 1163666027
+      Down Confirm 0: 1842248057
+      Down Confirm 1: 1692845307
+      Down Confirm 2 and 3: -386856088
+      Down Press 0 and 1: 1281479192
+      Down Press 2 and 3: -1732242865
       Green: -1796651206
+      Green Hold End: 89562997
+      Green Hold Piece: -1569322433
       Left Arrow: 773747700
+      Left Confirm 0: 441868709
+      Left Confirm 1: -1363273542
+      Left Confirm 2 and 3: 71968836
+      Left Press 0 and 1: 63629288
+      Left Press 2 to 19: 378263221
       Purple: -686630718
+      Purple Hold End: -777740362
+      Purple Hold Piece: 1310802235
       Red: -1806035375
+      Red Hold End: -353571823
+      Red Hold Piece: -1415678206
       Right Arrow: -395247277
+      Right Confirm 0: 15813077
+      Right Confirm 1: 1288077970
+      Right Confirm 2 and 3: -2084164507
+      Right Press 0 and 1: 1324535384
+      Right Press 2 to 26: -298918225
       Up Arrow: 541472196
-      blue hold end0000: 1662670087
-      blue hold piece0000: 60384563
-      down confirm0000: 1842248057
-      down confirm0001: 1692845307
-      down confirm0002 and 0003: -386856088
-      down press0000 and 0001: 1281479192
-      down press0002 and 0003: -1732242865
-      green hold end0000: 89562997
-      green hold piece0000: -1569322433
-      left confirm0000: 441868709
-      left confirm0001: -1363273542
-      left confirm0002 and 0003: 71968836
-      left press0000 and 0001: 63629288
-      left press0002 to 0019: 378263221
-      purple end hold0000: -777740362
-      purple hold piece0000: 1310802235
-      red hold end0000: -353571823
-      red hold piece0000: -1415678206
-      right confirm0000: 15813077
-      right confirm0001: 1288077970
-      right confirm0002 and 0003: -2084164507
-      right press0000 and 0001: 1324535384
-      right press0002 to 0026: -298918225
-      up confirm0000: 780759399
-      up confirm0001: -670671410
-      up confirm0002 and 0003: 6393688
-      up press0000 and 0001: 526478224
-      up press0002 and 0003: 1323424170
+      Up Confirm 0: 780759399
+      Up Confirm 1: -670671410
+      Up Confirm 2 and 3: 6393688
+      Up Press 0 and 1: 526478224
+      Up Press 2 and 3: 1323424170
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

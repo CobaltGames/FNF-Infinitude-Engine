@@ -4,10 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Left Note
-  - Down Note
-  - Up Note
-  - Right Note
+  - Note
+  - EventNote
+  - CustomNote
+  - HoldNote
+  - HoldEventNote
+  - HoldCustomNote
   layers:
   - Default
   - TransparentFX
@@ -15,9 +17,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Notes
+  - HoldNotes
+  - Arrows
   - 
   - 
   - 

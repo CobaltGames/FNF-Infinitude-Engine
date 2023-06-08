@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11414ffed3ecf634d8555a87640c0d03, type: 3}
+  m_Name: Dad Battle
+  m_EditorClassIdentifier: 
+  SongDisplayName: Dad Battle
+  SongID: DadBattle
+  Instrumental: {fileID: 8300000, guid: 2499ec90dc59ad54482337487ed43837, type: 3}
+  Voices: {fileID: 8300000, guid: 734c85f2cf1011449bae76f2b835cd78, type: 3}
+  InstrumentalVolume: 1
+  VoicesVolume: 1
+  chart:
+    ScrollSpeed: 0
+    notes:
+    - ID: 0
+      holdLength: 0
+      TimePos: 0
+    - ID: 0
+      holdLength: 0
+      TimePos: 0
+    events: []
+  InstrumentalSource: {fileID: 0}
+  VoicesSource: {fileID: 0}
