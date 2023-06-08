@@ -48,6 +48,7 @@ I plan on using the Persistent Data Folder for mods
 - [Gamadoge](https://www.youtube.com/@Gamadoge/) (Explained Stuff about Psych Engine and FNF)
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) (Assets and Code)
 - [Friday Night Funkin/Funkin Crew](https://github.com/FunkinCrew/Funkin) (Assets and FNF)
-- [SereBeat](https://gamebanana.com/members/1819550) (Reanimated BF, GF, Logo, Spooky Kids, Pico, and some other characters)
+- [SereBeat](https://gamebanana.com/members/1819550) (Reanimated BF, GF, Spooky Kids, Pico, and some other characters)
+- [Kade Engine/KadeDev](https://github.com/KadeDev/Kade-Engine) (Logo Bop)
 - Box Funkin for UI Inspiration
 - Cracsthor & PhantomArcade for [PhantoMuff Font (1.1.5 and 1.2)](https://gamebanana.com/tools/7763)
