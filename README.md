@@ -1,3 +1,5 @@
+# IMPORTANT NOTE: This Engine is incomplete and you cannot use it for mods yet. The documentation, tutorials, and website don't exist yet.
+
 ![Infinitude Engine Logo](InfinitudeEngineLogo.png)
 # Friday Night Funkin': Infinitude Engine
 ## Friday Night Funkin'
@@ -5,6 +7,10 @@
 
 ## Infinitude Engine
 **Infinitude Engine** is a recreation of Friday Night Funkin' in Unity. It is designed to improve Friday Night Funkin' for **Players** and **Modders**.
+Notes:
+**Infinitude Engine** is a ***MOD*** of FNF.
+**Infinitude Engine** is not compatible with any other FNF Engine, including Psych Engine.
+Documentation and tutorials on how to make a mod with **Infinitude Engine** are on the Infinitude Engine website.
 
 For Players:
 - Better Input System and UI
@@ -17,7 +23,10 @@ For Modders:
 - Fully Moddable Engine
 - Tons of built-in Events
 - Full Documentation
+- Easy-to-use Event System (More Variables than PsychEngine)
+- New Chart Editor
 
+Features can be disabled in the Settings.cs file. (Unimplemented)
 
 ## How to setup the Infinitude Engine for modding
 1. Download Unity (This was built on version 2021.3.26f1)
