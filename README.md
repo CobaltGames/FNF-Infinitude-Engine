@@ -1,4 +1,4 @@
-![Infinitude Engine Logo](Infinitude Engine Logo.png)
+![Infinitude Engine Logo](InfinitudeEngineLogo.png)
 # Friday Night Funkin': Infinitude Engine
 ## Friday Night Funkin'
 [**Friday Night Funkin'**](https://github.com/FunkinCrew/Funkin) is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
